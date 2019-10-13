@@ -1,0 +1,10 @@
+OS: Microsoft Windows 10 Pro (64-bit)
+Serial Number: None
+Processor: AMD FX(tm)-8350 Eight-Core Processor @ 4.00 GHz 8 Core(s)
+Motherboard Brand: BIOSTAR Group
+Motherboard Name: A960D+V2
+System RAM: 16.00 GB
+Video Memory: 4.00 GB
+Video Adapter Name: NVIDIA GeForce GTX 960
+Current Resolution (Primary Monitor): 1920 x 1080 60Hz
+
